@@ -1,0 +1,5 @@
+C:\Users\manojth\Documents\Visual Studio 2008\Projects\SimpleTestAlways\SimpleTestAlways\bin\Debug\SimpleTestAlways.exe
+C:\Users\manojth\Documents\Visual Studio 2008\Projects\SimpleTestAlways\SimpleTestAlways\bin\Debug\SimpleTestAlways.pdb
+C:\Users\manojth\Documents\Visual Studio 2008\Projects\SimpleTestAlways\SimpleTestAlways\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\manojth\Documents\Visual Studio 2008\Projects\SimpleTestAlways\SimpleTestAlways\obj\Debug\SimpleTestAlways.exe
+C:\Users\manojth\Documents\Visual Studio 2008\Projects\SimpleTestAlways\SimpleTestAlways\obj\Debug\SimpleTestAlways.pdb

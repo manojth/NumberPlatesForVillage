@@ -1,0 +1,61 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3D0CC984-99BA-4B7C-9C0A-F8A56098B5DF/f:Program.cs" caret="1144" fromTop="37" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3D0CC984-99BA-4B7C-9C0A-F8A56098B5DF/f:Program.cs" caret="1224" fromTop="10" />
+      <File id="3D0CC984-99BA-4B7C-9C0A-F8A56098B5DF/f:Program.cs" caret="559" fromTop="17" />
+      <File id="3D0CC984-99BA-4B7C-9C0A-F8A56098B5DF/f:Program.cs" caret="603" fromTop="17" />
+      <File id="3D0CC984-99BA-4B7C-9C0A-F8A56098B5DF/f:Program.cs" caret="559" fromTop="16" />
+      <File id="3D0CC984-99BA-4B7C-9C0A-F8A56098B5DF/f:Program.cs" caret="1224" fromTop="23" />
+      <File id="3D0CC984-99BA-4B7C-9C0A-F8A56098B5DF/f:Program.cs" caret="1003" fromTop="11" />
+      <File id="3D0CC984-99BA-4B7C-9C0A-F8A56098B5DF/f:Program.cs" caret="775" fromTop="16" />
+      <File id="3D0CC984-99BA-4B7C-9C0A-F8A56098B5DF/f:Program.cs" caret="1111" fromTop="17" />
+      <File id="3D0CC984-99BA-4B7C-9C0A-F8A56098B5DF/f:Program.cs" caret="442" fromTop="18" />
+      <File id="3D0CC984-99BA-4B7C-9C0A-F8A56098B5DF/f:Program.cs" caret="559" fromTop="5" />
+      <File id="3D0CC984-99BA-4B7C-9C0A-F8A56098B5DF/f:Program.cs" caret="381" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="count" priority="3" />
+      <Item value="int" priority="4" />
+      <Item value="return" priority="0" />
+      <Item value="totalNumberOfZeroes" priority="0" />
+      <Item value="number" priority="1" />
+      <Item value="position" priority="3" />
+      <Item value="else" priority="0" />
+      <Item value="Console`0" priority="0" />
+      <Item value="houseNumberEndingat" priority="0" />
+      <Item value="houseNumberStartingFrom" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="IndexOf`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
